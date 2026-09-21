@@ -15,3 +15,4 @@
 ## 구성
 
 - `index.html`: 초대장 페이지 (단일 파일, GitHub Pages로 배포)
+- `og-image.png`: 카카오톡 등 링크 미리보기 이미지 (1200x630)
